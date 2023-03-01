@@ -1,1 +1,1 @@
-lorem ipsum
+A SQL query example with olympic dataset.
