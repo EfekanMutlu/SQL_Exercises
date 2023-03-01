@@ -1,2 +1,2 @@
 # SQL_Exercises
-My various works to showcase my SQL skills
+I am exploring various datasets that I found online in this repository to demonstrate my SQL skills. I choose suitable queries according to the content of the dataset. Therefore, difficulty and distribution of the content of the queries I use may be a bit irregular. I only share completed projects. That's why there are currently a limited number of projects available, but they will be updated in the near future.
